@@ -1,63 +1,0 @@
-8
-
-dir
-172
-https://emoticon.googlecode.com/svn/trunk/emoticonBusiness
-https://emoticon.googlecode.com/svn
-
-
-
-2009-01-25T15:56:59.211620Z
-170
-pongiof
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-d5d30718-e270-11dd-a893-8d7ce9fbef62
-
-.classpath
-file
-
-
-
-
-2009-01-15T09:08:05.738000Z
-5ac3493a0fa314c31f9ba9e69513cd04
-2009-01-14T20:14:10.393181Z
-3
-pongiof
-has-props
-
-.project
-file
-
-
-
-
-2009-01-15T09:08:05.758000Z
-a76ba3572fe0b62b0d32e9d8056be34e
-2009-01-14T20:14:10.393181Z
-3
-pongiof
-has-props
-
-.settings
-dir
-
-build
-dir
-
-ejbModule
-dir
-

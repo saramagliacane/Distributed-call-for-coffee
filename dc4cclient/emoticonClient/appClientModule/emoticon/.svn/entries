@@ -1,34 +1,0 @@
-8
-
-dir
-172
-https://emoticon.googlecode.com/svn/trunk/emoticonClient/appClientModule/emoticon
-https://emoticon.googlecode.com/svn
-
-
-
-2009-01-25T16:12:47.074372Z
-172
-pongiof
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-d5d30718-e270-11dd-a893-8d7ce9fbef62
-
-client
-dir
-
-gclient
-dir
-
