@@ -1,0 +1,34 @@
+8
+
+dir
+172
+https://emoticon.googlecode.com/svn/trunk/emoticonBusiness/ejbModule/com/emoticon
+https://emoticon.googlecode.com/svn
+
+
+
+2009-01-25T15:56:59.211620Z
+170
+pongiof
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d5d30718-e270-11dd-a893-8d7ce9fbef62
+
+controllers
+dir
+
+entities
+dir
+

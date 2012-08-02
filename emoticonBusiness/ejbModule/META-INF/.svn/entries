@@ -1,0 +1,54 @@
+8
+
+dir
+172
+https://emoticon.googlecode.com/svn/trunk/emoticonBusiness/ejbModule/META-INF
+https://emoticon.googlecode.com/svn
+
+
+
+2009-01-22T11:47:09.452097Z
+123
+sara.magliacane
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d5d30718-e270-11dd-a893-8d7ce9fbef62
+
+MANIFEST.MF
+file
+
+
+
+
+2009-01-15T09:08:06.518000Z
+b10f37c8bb1803d98c127a01d1a71cc5
+2009-01-14T20:14:10.393181Z
+3
+pongiof
+has-props
+
+persistence.xml
+file
+
+
+
+
+2009-01-22T11:18:34.620000Z
+223f49974009fb26e4200fd41d41d702
+2009-01-22T11:47:09.452097Z
+123
+sara.magliacane
+has-props
+

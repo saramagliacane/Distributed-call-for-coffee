@@ -1,0 +1,63 @@
+8
+
+dir
+172
+https://emoticon.googlecode.com/svn/trunk/emoticonClient/appClientModule
+https://emoticon.googlecode.com/svn
+
+
+
+2009-01-25T16:12:47.074372Z
+172
+pongiof
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d5d30718-e270-11dd-a893-8d7ce9fbef62
+
+JTattoo.jar
+file
+
+
+
+
+2009-01-22T10:51:54.499000Z
+29eb5ea53e22b671ccf00c042e45a2d2
+2009-01-21T17:27:09.263662Z
+73
+pongiof
+has-props
+
+META-INF
+dir
+
+emoticon
+dir
+
+icon
+dir
+
+jndi.properties
+file
+
+
+
+
+2009-01-15T09:08:26.854000Z
+f6c9f95412993cada8076ba89c558583
+2009-01-14T20:18:12.289606Z
+5
+pongiof
+has-props
+

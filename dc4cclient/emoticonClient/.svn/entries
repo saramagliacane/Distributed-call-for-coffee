@@ -1,0 +1,67 @@
+8
+
+dir
+172
+https://emoticon.googlecode.com/svn/trunk/emoticonClient
+https://emoticon.googlecode.com/svn
+
+
+
+2009-01-25T16:12:47.074372Z
+172
+pongiof
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d5d30718-e270-11dd-a893-8d7ce9fbef62
+
+.classpath
+file
+
+
+
+
+2009-01-22T10:57:47.275000Z
+6ab071d1952f08138155334aeba5e3d7
+2009-01-22T10:58:49.306085Z
+116
+sara.magliacane
+has-props
+
+.project
+file
+
+
+
+
+2009-01-15T09:08:26.559000Z
+7fadd6a4791cb06324d0a1e807f06cb9
+2009-01-14T20:18:12.289606Z
+5
+pongiof
+has-props
+
+.settings
+dir
+
+appClientModule
+dir
+
+build
+dir
+
+
+
+delete
+
